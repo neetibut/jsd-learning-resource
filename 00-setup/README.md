@@ -1,11 +1,5 @@
 # Environment Setup
 
-> ⚠️ **Stub** — This topic has a Mental Model draft but is not yet complete.
-> Full content (code examples, exercises, links) coming soon.
-> → [Back to Curriculum Map](../README.md)
-
----
-
 ## The Mental Model
 
 Before you write a single line of JavaScript, your computer needs to speak the same language as every other developer's computer. That's what environment setup is: agreeing on the same tools, the same versions, and the same way of running things.

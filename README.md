@@ -12,14 +12,14 @@ A curriculum for Generation Thailand's JSD bootcamp. One project, 12 weeks, from
 
 | Module | Topics | Weeks | Status |
 |--------|--------|-------|--------|
-| [00-setup](00-setup/) | VS Code, Node/nvm, npm, terminal | Pre-Week 1 | 📝 Stub |
-| [01-foundations](01-foundations/) | HTML, CSS, Git, how the web works | 1–2 | 📝 Stub |
-| [02-javascript](02-javascript/) | JS fundamentals, async, DOM | 3–4 | 📝 Stub |
-| [03-backend](03-backend/) | Node.js, Express, REST API design | 5–6 | 📝 Stub |
-| [04-database](04-database/) | MongoDB, Mongoose, data modeling | 7–8 | 📝 Stub |
-| [05-frontend](05-frontend/) | React, state, hooks, routing | 9–10 | 📝 Stub |
-| [06-fullstack](06-fullstack/) | Connecting MERN, JWT auth, deployment | 11 | 📝 Stub |
-| [07-ai-age](07-ai-age/) | LLM API integration, AI dev workflow | 12 | 📝 Stub |
+| [00-setup](00-setup/) | VS Code, Node/nvm, npm, terminal | Pre-Week 1 | ✅ Complete |
+| [01-foundations](01-foundations/) | HTML, CSS, Git, how the web works | 1–2 | ✅ Complete |
+| [02-javascript](02-javascript/) | JS fundamentals, async, DOM | 3–4 | ✅ Complete |
+| [03-backend](03-backend/) | Node.js, Express, REST API design | 5–6 | ✅ Complete |
+| [04-database](04-database/) | MongoDB, Mongoose, data modeling | 7–8 | ✅ Complete |
+| [05-frontend](05-frontend/) | React, state, hooks, routing | 9–10 | ✅ Complete |
+| [06-fullstack](06-fullstack/) | Connecting MERN, JWT auth, deployment | 11 | ✅ Complete |
+| [07-ai-age](07-ai-age/) | LLM API integration, AI dev workflow | 12 | ✅ Complete |
 
 Status values: `✅ Complete` · `🚧 In progress (N/total)` · `📝 Stub` (Mental Model only) · `🔜 Planned`
 
@@ -29,7 +29,7 @@ Status values: `✅ Complete` · `🚧 In progress (N/total)` · `📝 Stub` (Me
 
 The **spine project** is a job board for developers. You start with a static HTML page in Week 1 and end with a full MERN app — MongoDB, Express, React, Node — with JWT auth, deployed to Render, and an AI-assisted job search feature.
 
-The "whoa" moment: your Week 1 HTML file and your Week 12 production app live in the [same repo](https://github.com/your-org/job-board-spine). `git log` is your curriculum timeline.
+The "whoa" moment: your Week 1 HTML file and your Week 12 production app live in the [same repo](https://github.com/your-org/job-board-spine). `git log` is your curriculum timeline. Note: `spine-week-XX` tags are created on the `job-board-spine` repo — not this curriculum repo.
 
 See the full week-by-week progression in [spine/README.md](spine/README.md).
 
