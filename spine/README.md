@@ -4,6 +4,8 @@ One app. 12 weeks. From static HTML to full-stack MERN.
 
 The spine project is a job board where developers can browse and post jobs. You build it incrementally — each module in the curriculum adds a new layer. By Week 12 you have a deployed app with a database, a REST API, a React frontend, authentication, and an AI-assisted search feature.
 
+**Why "spine"?** Your spine holds your whole body together — it's the structure everything else connects to. This project works the same way. Every topic in the curriculum (HTML, CSS, JavaScript, Node, MongoDB, React, auth, AI) slots into the same running app. You don't learn concepts in isolation and forget them. You layer them, week by week, onto something real. By Week 12, `git log` is your learning timeline.
+
 The week mapping below is a starting point, not a contract. Your cohort's pace may vary. The module numbering (00–07) is stable; the week assignments are flexible.
 
 ---
