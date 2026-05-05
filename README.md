@@ -10,18 +10,17 @@ A curriculum for Generation Thailand's JSD bootcamp. One project, 12 weeks, from
 
 ## Curriculum Map
 
-| Module | Topics | Weeks | Status |
-|--------|--------|-------|--------|
-| [00-setup](00-setup/) | VS Code, Node/nvm, npm, terminal | Pre-Week 1 | ✅ Complete |
-| [01-foundations](01-foundations/) | HTML, CSS, Git, how the web works | 1–2 | ✅ Complete |
-| [02-javascript](02-javascript/) | JS fundamentals, async, DOM | 3–4 | ✅ Complete |
-| [03-backend](03-backend/) | Node.js, Express, REST API design | 5–6 | ✅ Complete |
-| [04-database](04-database/) | MongoDB, Mongoose, data modeling | 7–8 | ✅ Complete |
-| [05-frontend](05-frontend/) | React, state, hooks, routing | 9–10 | ✅ Complete |
-| [06-fullstack](06-fullstack/) | Connecting MERN, JWT auth, deployment | 11 | ✅ Complete |
-| [07-ai-age](07-ai-age/) | LLM API integration, AI dev workflow | 12 | ✅ Complete |
-
-Status values: `✅ Complete` · `🚧 In progress (N/total)` · `📝 Stub` (Mental Model only) · `🔜 Planned`
+| Module                            | Topics                                | Weeks      |
+| --------------------------------- | ------------------------------------- | ---------- |
+| [00-setup](00-setup/)             | VS Code, Node/nvm, npm, terminal      | Pre-Week 1 |
+| [01-foundations](01-foundations/) | HTML, CSS, Git, how the web works     | 1–2        |
+| [02-javascript](02-javascript/)   | JS fundamentals, async, DOM           | 3–4        |
+| [03-backend](03-backend/)         | Node.js, Express, REST API design     | 5–6        |
+| [04-database](04-database/)       | MongoDB, Mongoose, data modeling      | 7–8        |
+| [05-frontend](05-frontend/)       | React, state, hooks, routing          | 9–10       |
+| [06-fullstack](06-fullstack/)     | Connecting MERN, JWT auth, deployment | 11         |
+| [07-ai-age](07-ai-age/)           | LLM API integration, AI dev workflow  | 12         |
+| [08-interview-prep](08-interview-prep/) | Frontend, backend, database, system design, and problem-solving interview prep | Post-Week 12 |
 
 ---
 
@@ -48,37 +47,53 @@ Work through the modules in order (00 → 07). Each topic is self-contained: rea
 ## Topics at a Glance
 
 ### [00-setup](00-setup/) — Pre-Week 1
+
 - [Environment setup](00-setup/README.md) — VS Code, Node/nvm, npm, terminal basics
 
 ### [01-foundations](01-foundations/) — Weeks 1–2
+
 - [HTML](01-foundations/html/README.md) — structure, semantic elements, forms
 - [CSS](01-foundations/css/README.md) — layout, flexbox, responsive design
 - [Version control](01-foundations/version-control/README.md) — Git, GitHub, branching
 - [How the internet works](01-foundations/internet/README.md) — HTTP, DNS, client-server
 
 ### [02-javascript](02-javascript/) — Weeks 3–4
+
 - [Basics](02-javascript/basics/README.md) — variables, functions, OOP (classes)
 - [Async](02-javascript/async/README.md) — promises, async/await, fetch
 - [DOM](02-javascript/dom/README.md) — selecting elements, events, manipulation
 
 ### [03-backend](03-backend/) — Weeks 5–6
+
 - [Node.js](03-backend/nodejs/README.md) — runtime, modules, npm scripts
 - [Express](03-backend/express/README.md) — server, routing, REST API design
 
 ### [04-database](04-database/) — Weeks 7–8
+
 - [MongoDB](04-database/mongodb/README.md) — documents, collections, CRUD
 - [Mongoose](04-database/mongoose/README.md) — schemas, models, validation
 
 ### [05-frontend](05-frontend/) — Weeks 9–10
+
 - [React basics](05-frontend/react-basics/README.md) — components, props, JSX
 - [Hooks](05-frontend/hooks/README.md) — useState, useEffect, custom hooks
 - [Routing](05-frontend/routing/README.md) — React Router, dynamic routes
 
 ### [06-fullstack](06-fullstack/) — Week 11
+
 - [Connecting MERN](06-fullstack/connecting-mern/README.md) — wiring React to Express
 - [JWT auth](06-fullstack/auth-jwt/README.md) — login/register, bcrypt, token verification
 - [Deployment](06-fullstack/deployment/README.md) — Render, environment variables
 
 ### [07-ai-age](07-ai-age/) — Week 12
+
 - [LLM API](07-ai-age/llm-api/README.md) — AI-assisted job search (USE_MOCK=true available)
 - [AI dev workflow](07-ai-age/ai-dev-workflow/README.md) — Cursor/Copilot in a real project
+
+### [08-interview-prep](08-interview-prep/) — Post-Week 12
+
+- [Frontend probing](08-interview-prep/frontend-probing/README.md) — React, hooks, browser rendering, state management
+- [Backend probing](08-interview-prep/backend-probing/README.md) — Express, middleware, REST design, JWT auth
+- [Database probing](08-interview-prep/database-probing/README.md) — MongoDB schema decisions, indexing, populate
+- [System design probing](08-interview-prep/system-design-probing/README.md) — Architecture, API contracts, scalability basics
+- [Problem solving probing](08-interview-prep/problem-solving-probing/README.md) — JavaScript problems, think-aloud technique
